@@ -1,0 +1,11 @@
+const id=56
+let a="Harsh"
+var b="virat"
+console.log(id)
+
+// const variable cannot be changed//
+
+a="hk"
+b="Vk"
+console.table([a,b])
+/* not to use var scope due to functional and block scope */
