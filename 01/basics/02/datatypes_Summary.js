@@ -23,7 +23,7 @@ const cricketers=['Virat','Dhoni','Rohit']
     name: "Harsh",
     age: 21
  }
-
+console.log(cricketers)
  console.log(myObj)
  const myfunc= function(){
     console.log("Hello World")
