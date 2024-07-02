@@ -1,0 +1,15 @@
+// All primitive types => Stack
+// All reference types => Heap
+
+let obj1="123"
+let obj2=obj1
+obj2="hk"
+//console.log(obj1)
+//console.log(obj2)
+
+let myObj1=['vk','hk']
+let myObj2=myObj1
+
+myObj2=['msd','rs']
+console.log(myObj1)
+console.log(myObj2)
