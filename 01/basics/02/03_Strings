@@ -1,0 +1,7 @@
+const name="harsh"
+const count=10
+//console.log(name+count+"value")
+console.log(`Hello my name is ${name}`)
+
+
+ 
